@@ -35,12 +35,12 @@ var brick_font_digits = [
 ];
 
 //Pre-load sounds
-var charge_sound = new Audio("/sounds/charge.mp3");
-var mk_sound = new Audio("/sounds/mario_kart.mp3");
-var laser_sound = new Audio("/sounds/laser.mp3");
-var church_bell_sound = new Audio("/sounds/church_bell.mp3");
-var buzzer_sound = new Audio("/sounds/buzzer.mp3");
-var ding_sound = new Audio("/sounds/four_ding.mp3");
+var charge_sound = new Audio("sounds/charge.mp3");
+var mk_sound = new Audio("sounds/mario_kart.mp3");
+var laser_sound = new Audio("sounds/laser.mp3");
+var church_bell_sound = new Audio("sounds/church_bell.mp3");
+var buzzer_sound = new Audio("sounds/buzzer.mp3");
+var ding_sound = new Audio("sounds/four_ding.mp3");
 
 /**************************************************************
 /
